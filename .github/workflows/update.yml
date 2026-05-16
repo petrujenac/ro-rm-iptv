@@ -3,33 +3,35 @@ name: Build IPTV Playlist
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run build script
         run: python build.py
 
       - name: Show output (debug)
-        run: |
-          echo "=== ron.m3u preview ==="
-          head -n 20 ron.m3u || true
+        run: head -n 20 ron.m3u || true
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ron.m3u
-          git commit -m "auto build playlist" || echo "no changes to commit"
+          git commit -m "auto build playlist" || echo "no changes"
           git push
