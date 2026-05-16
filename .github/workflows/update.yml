@@ -1,8 +1,6 @@
 name: Build IPTV Playlist
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,13 +18,18 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Build playlist
+      - name: Run build script
         run: python build.py
+
+      - name: Show output (debug)
+        run: |
+          echo "=== ron.m3u preview ==="
+          head -n 20 ron.m3u || true
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ron.m3u
-          git commit -m "auto update playlist" || exit 0
+          git commit -m "auto build playlist" || echo "no changes to commit"
           git push
