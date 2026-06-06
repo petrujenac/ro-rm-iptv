@@ -14,21 +14,18 @@ TIMEOUT = 6
 
 def is_stream_alive(url):
     """
-    Lightweight check (header-based)
+    Lightweight check:
+    Only checks headers (fast, avoids hanging).
     """
     try:
         r = requests.get(url, timeout=TIMEOUT, stream=True)
-
         if r.status_code != 200:
             return False
 
         ctype = r.headers.get("Content-Type", "")
-        return (
-            "video" in ctype
-            or "mpegurl" in ctype
-            or "application" in ctype
-        )
-
+        return ("video" in ctype or
+                "mpegurl" in ctype or
+                "application" in ctype)
     except:
         return False
 
@@ -39,13 +36,13 @@ def clean_line(line):
 
 print("Building CLEAN stable playlist...")
 
-seen = set()
+seen_streams = set()   # FIXED (was missing vs "seen")
 output = []
 
-output.append('#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"\n')
+output.append('#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"')
 
 for src in SOURCES:
-    print(f"Fetching: {src}")
+    print(f"\nFetching: {src}")
 
     try:
         data = requests.get(src, timeout=20).text.splitlines()
@@ -65,34 +62,22 @@ for src in SOURCES:
             if not current_extinf:
                 continue
 
-            # -----------------------------
-            # Extract tvg-id (best ID)
-            # -----------------------------
-            tvg_id = ""
-            if 'tvg-id="' in current_extinf:
-                try:
-                    tvg_id = current_extinf.split('tvg-id="')[1].split('"')[0].strip().lower()
-                except:
-                    tvg_id = ""
-
-            # -----------------------------
-            # Extract channel name
-            # -----------------------------
-            channel_name = current_extinf.split(",")[-1].strip().lower()
-
-            # -----------------------------
-            # Unique identity key
-            # (THIS fixes PRO TV RO vs MD)
-            # -----------------------------
-            unique_key = tvg_id if tvg_id else channel_name
-
-            if unique_key in seen:
+            # skip obvious bad sources
+            if any(x in line for x in [
+                "example.com",
+                "127.0.0.1",
+                "localhost"
+            ]):
                 continue
 
-            print(f"Testing: {line[:60]}...")
+            # avoid duplicates (same stream URL only)
+            if line in seen_streams:
+                continue
+
+            print(f"Testing: {line[:70]}...")
 
             if is_stream_alive(line):
-                seen.add(unique_key)
+                seen_streams.add(line)
                 output.append(current_extinf)
                 output.append(line)
             else:
@@ -100,8 +85,10 @@ for src in SOURCES:
 
             time.sleep(0.2)
 
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output))
 
-print(f"Done. Clean playlist written: {OUTPUT_FILE}")
-print(f"Total channels: {len(seen)}")
+
+print(f"\nDone. Clean playlist written: {OUTPUT_FILE}")
+print(f"Total channels: {len(seen_streams)}")
