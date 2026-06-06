@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"
-
 #EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV (1080p)
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV (360p) [Not 24/7]
@@ -140,8 +139,6 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="Undefined",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews Romania
-https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="Religious",Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 #EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="General",Moldova 1 (1080p)
@@ -189,8 +186,6 @@ https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
 #EXTINF:-1, Digi 24 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
 #EXTINF:-1, Digi 24 | Wlog.Ro
-https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
-#EXTINF:-1, Digi 24 | Wlog.Ro
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1, Emi Tv | Wlog.Ro
 https://astra.emitv.ro/hls/emi/index.m3u8
@@ -222,8 +217,6 @@ https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 https://flus.moinestifm.ro/ro.moinesti/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
-#EXTINF:-1, Moldova Tv | Wlog.Ro
-http://89.38.8.130:39451
 #EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
 https://vdo.ssl-stream.com:3885/stream/play.m3u8
 #EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
@@ -240,8 +233,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1, Realitatea Plus | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6958/index.m3u8
-#EXTINF:-1, Realitatea Plus | Wlog.Ro
-https://stream.realitatea.net/realitatea/plus_fq/ts:playlist.m3u8
 #EXTINF:-1, Rtn Chicago | Wlog.Ro
 https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 #EXTINF:-1, Sens Tv | Wlog.Ro
@@ -280,8 +271,6 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2447/index.m3u8
 #EXTINF:-1, Exclusiv Tv (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2463/index.m3u8
-#EXTINF:-1, Exclusiv Tv (MD) | Wlog.Ro
-http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1, GRT (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2448/index.m3u8
 #EXTINF:-1, Gurinel Tv (MD) | Wlog.Ro
