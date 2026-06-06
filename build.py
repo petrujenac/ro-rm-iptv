@@ -4,7 +4,8 @@ import time
 SOURCES = [
     "https://iptv-org.github.io/iptv/countries/ro.m3u",
     "https://iptv-org.github.io/iptv/languages/ron.m3u",
-    "https://iptv-org.github.io/iptv/countries/md.m3u"
+    "https://iptv-org.github.io/iptv/countries/md.m3u",
+    "https://wlog.ro/api/iptv.m3u"
 ]
 
 OUTPUT_FILE = "ron.m3u"
