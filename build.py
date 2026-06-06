@@ -31,7 +31,7 @@ def clean_line(line):
 
 print("Building CLEAN stable playlist...")
 
-seen_streams = set()
+seen = set()
 output = []
 
 output.append('#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"\n')
