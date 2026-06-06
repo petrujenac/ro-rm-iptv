@@ -11,23 +11,31 @@ SOURCES = [
 OUTPUT_FILE = "ron.m3u"
 TIMEOUT = 6
 
+
 def is_stream_alive(url):
     """
-    Lightweight check:
-    We only test headers (fast, avoids hanging on slow streams).
+    Lightweight check (header-based)
     """
     try:
         r = requests.get(url, timeout=TIMEOUT, stream=True)
+
         if r.status_code != 200:
             return False
+
         ctype = r.headers.get("Content-Type", "")
-        # most HLS streams are video or binary chunks
-        return "video" in ctype or "mpegurl" in ctype or "application" in ctype
+        return (
+            "video" in ctype
+            or "mpegurl" in ctype
+            or "application" in ctype
+        )
+
     except:
         return False
 
+
 def clean_line(line):
     return line.strip()
+
 
 print("Building CLEAN stable playlist...")
 
@@ -57,30 +65,43 @@ for src in SOURCES:
             if not current_extinf:
                 continue
 
-            if line in seen_streams:
-                continue
+            # -----------------------------
+            # Extract tvg-id (best ID)
+            # -----------------------------
+            tvg_id = ""
+            if 'tvg-id="' in current_extinf:
+                try:
+                    tvg_id = current_extinf.split('tvg-id="')[1].split('"')[0].strip().lower()
+                except:
+                    tvg_id = ""
 
-            # skip obvious bad sources
-            if any(x in line for x in [
-                "example.com",
-                "127.0.0.1",
-                "localhost"
-            ]):
+            # -----------------------------
+            # Extract channel name
+            # -----------------------------
+            channel_name = current_extinf.split(",")[-1].strip().lower()
+
+            # -----------------------------
+            # Unique identity key
+            # (THIS fixes PRO TV RO vs MD)
+            # -----------------------------
+            unique_key = tvg_id if tvg_id else channel_name
+
+            if unique_key in seen:
                 continue
 
             print(f"Testing: {line[:60]}...")
 
             if is_stream_alive(line):
-                seen_streams.add(line)
+                seen.add(unique_key)
                 output.append(current_extinf)
                 output.append(line)
             else:
                 print("  ❌ dead stream skipped")
 
-            time.sleep(0.2)  # avoid hammering servers
+            time.sleep(0.2)
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output))
 
 print(f"Done. Clean playlist written: {OUTPUT_FILE}")
-print(f"Total channels: {len(seen_streams)}")
+print(f"Total channels: {len(seen)}")
