@@ -37,6 +37,8 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
@@ -197,8 +199,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1, Emi Tv | Wlog.Ro
 https://astra.emitv.ro/hls/emi/index.m3u8
-#EXTINF:-1, Favorit Tv | Wlog.Ro
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6979/index.m3u8
 #EXTINF:-1, FilmBox Extra | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6996/index.m3u8
 #EXTINF:-1, Film Now | Wlog.Ro
