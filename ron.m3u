@@ -39,6 +39,8 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
@@ -117,8 +119,6 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="TV1000.ro@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Movies",TV1000 [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8
-#EXTINF:-1 tvg-id="TVBuzau.ro@SD" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="General",TV Buzau (576p)
-http://78.96.33.89:8080
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Undefined",TVPlus Suceava (576p)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="General",TVR 1
@@ -245,14 +245,14 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1, Realitatea Plus | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6958/index.m3u8
-#EXTINF:-1, Rtn Chicago | Wlog.Ro
-https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 #EXTINF:-1, Sens Tv | Wlog.Ro
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1, Stirile Pro Tv | Wlog.Ro
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1, Super Tv | Wlog.Ro
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1, Tv Arad | Wlog.Ro
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1, Tv 1 | Wlog.Ro
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tvr 1 | Wlog.Ro
