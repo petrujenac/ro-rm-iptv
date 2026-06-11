@@ -229,10 +229,6 @@ https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 https://flus.moinestifm.ro/ro.moinesti/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
-#EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
-https://vdo.ssl-stream.com:3885/stream/play.m3u8
-#EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
-https://vdo.ssl-stream.com:3369/stream/play.m3u8
 #EXTINF:-1, National Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6983/index.m3u8
 #EXTINF:-1, Prima Tv | Wlog.Ro
@@ -245,6 +241,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1, Realitatea Plus | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6958/index.m3u8
+#EXTINF:-1, Rtn Chicago | Wlog.Ro
+https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 #EXTINF:-1, Sens Tv | Wlog.Ro
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1, Stirile Pro Tv | Wlog.Ro
