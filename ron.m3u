@@ -35,6 +35,14 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="News",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports",Digi Sport 1 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",Digi Sport 3 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",Digi Sport 4 [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV (1080p)
@@ -43,8 +51,6 @@ https://live.dottotv.ro/index.m3u8
 https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
-https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance (1080p)
@@ -221,6 +227,8 @@ https://netstreaming.eu/InfoHd.m3u8
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1, Kanal D | Wlog.Ro
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1, M9 Tv | Wlog.Ro
+https://netstreaming.eu/m9tv.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
