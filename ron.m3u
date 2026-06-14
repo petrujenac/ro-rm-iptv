@@ -47,6 +47,8 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
@@ -193,6 +195,8 @@ https://s2.netstreaming.eu/astv.m3u8
 http://188.211.27.160:4001
 #EXTINF:-1, B1 Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6994/index.m3u8
+#EXTINF:-1, Busuioc Tv | Wlog.Ro
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 #EXTINF:-1, Cinemax | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6985/index.m3u8
 #EXTINF:-1, Cinemax 2 | Wlog.Ro
