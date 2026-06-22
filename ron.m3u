@@ -105,8 +105,6 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="General",Moldova TV (1080p)
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Auto",Motorvision.tv (French)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="General",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV (720p) [Not 24/7]
@@ -295,8 +293,6 @@ https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1, Stirile Pro Tv | Wlog.Ro
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1, Super Tv | Wlog.Ro
-https://cdn.streamnet.pro/live/supertv/playlist.m3u8
 #EXTINF:-1, Tv 1 | Wlog.Ro
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tvr 1 | Wlog.Ro
