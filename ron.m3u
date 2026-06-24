@@ -143,6 +143,8 @@ https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Undefined",Telestar1
@@ -185,10 +187,6 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Babyfirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EBS (1080p)
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EBS Plus (1080p)
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="Religious",Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 #EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="General",Moldova 1 (1080p)
