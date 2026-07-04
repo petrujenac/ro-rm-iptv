@@ -133,8 +133,6 @@ https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="General",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova + [Geo-blocked]
@@ -299,6 +297,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/liv
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
 #EXTINF:-1, Tv Arad | Wlog.Ro
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+#EXTINF:-1, Tv 1 | Wlog.Ro
+https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tvr Iasi | Wlog.Ro
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
 #EXTINF:-1, Cinema 1 (MD) | Wlog.Ro
