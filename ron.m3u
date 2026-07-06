@@ -97,8 +97,6 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Nickelodeon
 http://82.78.243.219:45739/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov (576p) [Not 24/7]
-http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News (720p)
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",Prima TV HD
@@ -121,8 +119,6 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (720p)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-logo="https://i.imgur.com/ZIfEp5I.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Romania TV (1080p)
-https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Entertainment",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Religious",SperantaTV (1080p)
@@ -197,6 +193,8 @@ https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Rlive TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-logo="https://i.imgur.com/ZIfEp5I.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Romania TV (1080p)
+https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music",Tezaur TV (576i)
