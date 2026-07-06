@@ -199,6 +199,8 @@ https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
 http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music",Tezaur TV (576i)
+https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="Documentary;News",TV8 [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-1 tvg-id="TVNord.md@SD" tvg-logo="https://i.imgur.com/86JYRVH.png" group-title="News",TV-Nord (1080p)
@@ -207,6 +209,8 @@ https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",RTG int.
 http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="General",TSV (1080p)
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1, Aleph News | Wlog.Ro
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 #EXTINF:-1, Antena 1 | Wlog.Ro
@@ -315,6 +319,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2456/index.m3u8
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1, Star Tv (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
+#EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
+http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1, Tv 8 (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2454/index.m3u8
 #EXTINF:-1, Tvr Moldova (MD) | Wlog.Ro
