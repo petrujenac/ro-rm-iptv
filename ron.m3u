@@ -293,6 +293,8 @@ https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1, Super Tv | Wlog.Ro
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1, Tv Arad | Wlog.Ro
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1, Tv 1 | Wlog.Ro
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tvr Iasi | Wlog.Ro
@@ -319,8 +321,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2456/index.m3u8
 #EXTINF:-1, Sor Tv (MD) | Wlog.Ro
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
-#EXTINF:-1, Star Tv (MD) | Wlog.Ro
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1, Tv 8 (MD) | Wlog.Ro
