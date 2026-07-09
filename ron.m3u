@@ -29,8 +29,6 @@ https://www.btv.ro/hls/banat-tv.m3u8
 https://dokagents.site/live/bollyc/mono.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Undefined",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
-#EXTINF:-1 tvg-id="CineMaraton.ro@SD" tvg-logo="https://i.imgur.com/BY8UZa0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
-https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="General",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central
@@ -57,10 +55,6 @@ https://dokagents.site/live/diva/mono.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Undefined",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-logo="https://i.imgur.com/sSoRvGz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
-https://dokagents.site/live/filmnow/mono.m3u8
-#EXTINF:-1 tvg-id="FilmBoxPremium.nl@Romania" tvg-logo="https://i.imgur.com/RydfsE9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Hits Romania
-https://dokagents.site/live/filmboxp/mono.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-id="History.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",History
@@ -109,8 +103,6 @@ https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 https://dokagents.site/live/primatv/mono.m3u8
 #EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-logo="https://i.imgur.com/KQmB9Cc.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Pro Arena
 https://dokagents.site/live/proarena/mono.m3u8
-#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-logo="https://i.imgur.com/TvHFGwZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
-https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
@@ -175,10 +167,16 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (720p)
 http://206.212.244.63/639/index.m3u8
+#EXTINF:-1 tvg-id="CineMaraton.ro@SD" tvg-logo="https://i.imgur.com/BY8UZa0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
+https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EBS (1080p)
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EBS Plus (1080p)
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-logo="https://i.imgur.com/sSoRvGz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
+https://dokagents.site/live/filmnow/mono.m3u8
+#EXTINF:-1 tvg-id="FilmBoxPremium.nl@Romania" tvg-logo="https://i.imgur.com/RydfsE9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Hits Romania
+https://dokagents.site/live/filmboxp/mono.m3u8
 #EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Music",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="Religious",Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)
@@ -189,6 +187,8 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative",Privesc.Eu TV (2160p)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-logo="https://i.imgur.com/TvHFGwZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
+https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 tvg-id="RadioMoldova.md@SD" tvg-logo="https://i.imgur.com/wNifDCo.png" group-title="General",Radio Moldova
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
 #EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" group-title="Music",Radio Moldova Muzical
