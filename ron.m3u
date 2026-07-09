@@ -27,6 +27,8 @@ http://82.78.243.219:45739/play/a00n/index.m3u8
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@HD" tvg-logo="https://i.imgur.com/ugPo6ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic
 https://dokagents.site/live/bollyc/mono.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Undefined",Bucovina TV (576i)
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="CineMaraton.ro@SD" tvg-logo="https://i.imgur.com/BY8UZa0.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
 https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="General",Columna TV
@@ -161,8 +163,6 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="General",TVR Iasi (1080p) [Not 24/7]
 http://82.208.141.70:8778/1.m3u8
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
-https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="General",TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="General;Sports",TVR Sport
@@ -213,6 +213,8 @@ http://213.91.179.28:8000/play/a0bw
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1, Aleph News | Wlog.Ro
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
+#EXTINF:-1, Aleph Smart Tv | Wlog.Ro
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1, Antena 1 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
 #EXTINF:-1, Antena 3 Cnn | Wlog.Ro
