@@ -225,10 +225,10 @@ https://live.intermediatv.ro/ram/playlist.m3u8
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1, Kanal D2 | Wlog.Ro
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1, M9 Tv | Wlog.Ro
+https://netstreaming.eu/m9tv.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
-#EXTINF:-1, Moinesti Tv | Wlog.Ro
-https://flus.moinestifm.ro/ro.moinesti/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
 #EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
