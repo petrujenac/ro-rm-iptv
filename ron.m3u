@@ -81,8 +81,6 @@ https://moldovatv.ro/live-tv/live.m3u8
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov (576p) [Not 24/7]
-http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="General",PROFI 24 TV
@@ -241,14 +239,16 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1, M9 Tv | Wlog.Ro
 https://netstreaming.eu/m9tv.m3u8
-#EXTINF:-1, Mdi Tv | Wlog.Ro
-http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
 https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 #EXTINF:-1, Moinesti Tv | Wlog.Ro
 https://flus.moinestifm.ro/ro.moinesti/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
+#EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
+https://vdo.ssl-stream.com:3885/stream/play.m3u8
+#EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
+https://vdo.ssl-stream.com:3369/stream/play.m3u8
 #EXTINF:-1, National Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6983/index.m3u8
 #EXTINF:-1, Prima Tv | Wlog.Ro
@@ -303,5 +303,7 @@ http://tezaur.mlbfan.org/tezaur/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2454/index.m3u8
 #EXTINF:-1, Tvr Moldova (MD) | Wlog.Ro
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1, Unu Tv (MD) | Wlog.Ro
+https://tt.nfthost.net/static/streaming-playlists/hls/49d7593a-a240-4bd1-8759-cfea525250f0/master.m3u8
 #EXTINF:-1, Zona M (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
