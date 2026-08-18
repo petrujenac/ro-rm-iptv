@@ -39,8 +39,6 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@MagyarRomania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar & Romania (576p)
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD365 TV
-https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1 (480p) [Not 24/7]
@@ -167,8 +165,6 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative",Privesc.Eu TV (2160p)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" http-referrer="https://radiochisinau.md/" group-title="Music",Radio Chisinau (576p)
-https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Rlive TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
@@ -219,6 +215,8 @@ https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
 #EXTINF:-1, Digi 24 | Wlog.Ro
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1, Europa Nova | Wlog.Ro
+https://stream.nstiri.com/hls/stream.m3u8
 #EXTINF:-1, Favorit Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6979/index.m3u8
 #EXTINF:-1, FilmBox Extra | Wlog.Ro
@@ -231,8 +229,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6986/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7005/index.m3u8
 #EXTINF:-1, HBO 3 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6987/index.m3u8
-#EXTINF:-1, HD 365 | Wlog.Ro
-https://netstreaming.eu/hd365.m3u8
 #EXTINF:-1, Info HD | Wlog.Ro
 https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1, Intermedia Tv | Wlog.Ro
@@ -243,6 +239,8 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1, M9 Tv | Wlog.Ro
 https://netstreaming.eu/m9tv.m3u8
+#EXTINF:-1, Mdi Tv | Wlog.Ro
+http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
 https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 #EXTINF:-1, Moinesti Tv | Wlog.Ro
