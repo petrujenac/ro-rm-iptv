@@ -39,8 +39,8 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@MagyarRomania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar & Romania (576p)
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste (720p)
-https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD365 TV
+https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-logo="https://tvimpact.ro/impact-logo.png" http-referrer="https://tvimpact.ro/" group-title="Music",Impact TV (1080p)
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance (1080p)
@@ -75,6 +75,8 @@ https://moldovatv.ro/live-tv/live.m3u8
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News (1080p)
@@ -241,6 +243,10 @@ https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 https://flus.moinestifm.ro/ro.moinesti/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
+#EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
+https://vdo.ssl-stream.com:3885/stream/play.m3u8
+#EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
+https://vdo.ssl-stream.com:3369/stream/play.m3u8
 #EXTINF:-1, National Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6983/index.m3u8
 #EXTINF:-1, Prima Tv | Wlog.Ro
