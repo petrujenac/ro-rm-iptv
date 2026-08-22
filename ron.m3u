@@ -63,6 +63,8 @@ https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Undefined",Light Channel (480p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Music",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV (720p)
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Series",Mireasa (720p)
@@ -87,8 +89,6 @@ https://live.ro24tv.ro/hls/stream.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Undefined",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -185,12 +185,12 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="General",TSV (1080p)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1, Aleph News | Wlog.Ro
+https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
 #EXTINF:-1, Aleph Smart Tv | Wlog.Ro
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1, Antena 1 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
-#EXTINF:-1, Antena 3 Cnn | Wlog.Ro
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7003/index.m3u8
 #EXTINF:-1, Arges Tv | Wlog.Ro
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1, As Tv | Wlog.Ro
@@ -212,7 +212,7 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1, Credo Tv | Wlog.Ro
 https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
 #EXTINF:-1, Digi 24 | Wlog.Ro
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
+https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 #EXTINF:-1, Digi 24 | Wlog.Ro
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1, Europa Nova | Wlog.Ro
@@ -229,12 +229,16 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6986/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7005/index.m3u8
 #EXTINF:-1, HBO 3 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6987/index.m3u8
+#EXTINF:-1, Impact Tv 2 | Wlog.Ro
+https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1, Intermedia Tv | Wlog.Ro
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1, Kanal D | Wlog.Ro
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1, Kanal D2 | Wlog.Ro
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1, Kapital Tv | Wlog.Ro
+http://mediafilmcenter.go.ro:50935/ktv/myStream/playlist.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
@@ -260,7 +264,9 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 #EXTINF:-1, Rapsodia Tv | Wlog.Ro
 http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1, Realitatea Plus | Wlog.Ro
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6958/index.m3u8
+https://stream.realitatea.net/realitatea/plus_fq/ts:playlist.m3u8
+#EXTINF:-1, Ro 24 | Wlog.Ro
+https://live.ro24tv.ro/hls/0/stream.m3u8?cachebust=
 #EXTINF:-1, Rtn Chicago | Wlog.Ro
 https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 #EXTINF:-1, Sens Tv | Wlog.Ro
@@ -269,10 +275,12 @@ https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1, Super Tv | Wlog.Ro
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
-#EXTINF:-1, Tv Arad | Wlog.Ro
-https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+#EXTINF:-1, Tequila Music Tv | Wlog.Ro
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1, Tv 1 | Wlog.Ro
 https://s2.netstreaming.eu/tv1.m3u8
+#EXTINF:-1, Tv Arad | Wlog.Ro
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1, Tvr Iasi | Wlog.Ro
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
 #EXTINF:-1, Cinema 1 (MD) | Wlog.Ro
@@ -289,8 +297,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2446/index.m3u8
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
 #EXTINF:-1, N 4 (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2460/index.m3u8
-#EXTINF:-1, NTS (MD) | Wlog.Ro
-http://5.56.77.9:50000
+#EXTINF:-1, Noroc Tv (MD) | Wlog.Ro
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1, One Tv (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 #EXTINF:-1, Pro Tv Chisinau (MD) | Wlog.Ro
@@ -305,3 +313,5 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2454/index.m3u8
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1, Unu Tv (MD) | Wlog.Ro
 https://tt.nfthost.net/static/streaming-playlists/hls/49d7593a-a240-4bd1-8759-cfea525250f0/master.m3u8
+#EXTINF:-1, Vocea Basarabiei (MD) | Wlog.Ro
+https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
