@@ -165,8 +165,6 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative",Privesc.Eu TV (2160p)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" http-referrer="https://radiochisinau.md/" group-title="Music",Radio Chisinau (576p)
-https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="StarTV.md@SD" tvg-logo="https://i.imgur.com/6BBnG6f.png" group-title="Entertainment",Star TV
@@ -191,6 +189,8 @@ https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1, Antena 1 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
+#EXTINF:-1, Antena 3 Cnn | Wlog.Ro
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1, Arges Tv | Wlog.Ro
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1, As Tv | Wlog.Ro
@@ -307,6 +307,8 @@ https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 #EXTINF:-1, Pro Tv Chisinau (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2456/index.m3u8
+#EXTINF:-1, Realitatea Live (MD) | Wlog.Ro
+https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1, Sor Tv (MD) | Wlog.Ro
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
@@ -319,3 +321,5 @@ https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 https://tt.nfthost.net/static/streaming-playlists/hls/49d7593a-a240-4bd1-8759-cfea525250f0/master.m3u8
 #EXTINF:-1, Vocea Basarabiei (MD) | Wlog.Ro
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+#EXTINF:-1, Avva (MD) | Wlog.Ro
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2442/index.m3u8
