@@ -239,6 +239,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7005/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6987/index.m3u8
 #EXTINF:-1, Hunedoara 1 | Wlog.Ro
 https://s2.netstreaming.eu/hd1.m3u8
+#EXTINF:-1, Impact Tv | Wlog.Ro
+https://live.tvimpact.ro:8088/live/impact.m3u8
 #EXTINF:-1, Impact Tv 2 | Wlog.Ro
 https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1, Info HD | Wlog.Ro
@@ -278,7 +280,7 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 #EXTINF:-1, Rapsodia Tv | Wlog.Ro
 http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1, Realitatea Plus | Wlog.Ro
-https://stream.realitatea.net/realitatea/plus_fq/ts:playlist.m3u8
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6958/index.m3u8
 #EXTINF:-1, Ro 24 | Wlog.Ro
 https://live.ro24tv.ro/hls/0/stream.m3u8?cachebust=
 #EXTINF:-1, Rtn Chicago | Wlog.Ro
