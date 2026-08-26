@@ -53,6 +53,8 @@ https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-logo="https://tvimpact.ro/impact-logo.png" http-referrer="https://tvimpact.ro/" group-title="Music",Impact TV (1080p)
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance (1080p)
@@ -97,8 +99,6 @@ https://live.ro24tv.ro/hls/stream.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Undefined",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -247,6 +247,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6986/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7005/index.m3u8
 #EXTINF:-1, HBO 3 | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6987/index.m3u8
+#EXTINF:-1, Hunedoara 1 | Wlog.Ro
+https://s2.netstreaming.eu/hd1.m3u8
 #EXTINF:-1, Impact Tv | Wlog.Ro
 https://live.tvimpact.ro:8088/live/impact.m3u8
 #EXTINF:-1, Impact Tv 2 | Wlog.Ro
@@ -335,6 +337,8 @@ https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbef
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2460/index.m3u8
 #EXTINF:-1, Noroc Tv (MD) | Wlog.Ro
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1, NTS (MD) | Wlog.Ro
+http://5.56.77.9:50000
 #EXTINF:-1, One Tv (MD) | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 #EXTINF:-1, Sor Tv (MD) | Wlog.Ro
