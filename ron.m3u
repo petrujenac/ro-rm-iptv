@@ -73,8 +73,6 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Undefined",Light Channel (480p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Music",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV (720p)
@@ -263,12 +261,12 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1, Kapital Tv | Wlog.Ro
 http://mediafilmcenter.go.ro:50935/ktv/myStream/playlist.m3u8
+#EXTINF:-1, M9 Tv | Wlog.Ro
+https://s2.netstreaming.eu/m9tv.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
 https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
-#EXTINF:-1, Moinesti Tv | Wlog.Ro
-https://de.moinestifm.ro/hls/moinesti_tv/1/index.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
 #EXTINF:-1, Mooz Dance | Wlog.Ro
