@@ -47,8 +47,6 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Movies",FILMBOX+ One Romania (576p)
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
-#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD365 TV
-https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-logo="https://tvimpact.ro/impact-logo.png" http-referrer="https://tvimpact.ro/" group-title="Music",Impact TV (1080p)
@@ -207,6 +205,8 @@ https://s2.netstreaming.eu/astv.m3u8
 http://188.211.27.160:4001
 #EXTINF:-1, B1 Tv | Wlog.Ro
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6994/index.m3u8
+#EXTINF:-1, Banat Tv | Wlog.Ro
+https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1, Bollywood Clasic | Wlog.Ro
 https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
 #EXTINF:-1, Bollywood Film | Wlog.Ro
