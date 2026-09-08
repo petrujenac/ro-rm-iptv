@@ -97,8 +97,6 @@ https://live.ro24tv.ro/hls/stream.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Undefined",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -111,8 +109,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Religious",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Music",Super TV (576p)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="General",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music (576i)
@@ -179,8 +175,6 @@ https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c04
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="Legislative",Privesc.Eu TV (2160p)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" http-referrer="https://radiochisinau.md/" group-title="Music",Radio Chisinau (576p)
-https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Rlive TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
@@ -297,6 +291,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/liv
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
 #EXTINF:-1, Tequila Music Tv | Wlog.Ro
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+#EXTINF:-1, Tv 1 | Wlog.Ro
+https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tv Arad | Wlog.Ro
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1, Drochia Tv (MD) | Wlog.Ro
