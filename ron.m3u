@@ -61,8 +61,6 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Undefined",Kanal D2 (1080i)
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-logo="https://i.imgur.com/Q1PYwkZ.png" http-referrer="https://kapitaltv.ro/" group-title="General",Kapital TV (1080p)
-https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Undefined",Light Channel (480p) [Not 24/7]
@@ -121,6 +119,8 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music (576i)
 https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Undefined",Telestar1
@@ -197,3 +197,117 @@ https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="General",TSV (1080p)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1, Aleph News | Wlog.Ro
+https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
+#EXTINF:-1, Aleph Smart Tv | Wlog.Ro
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
+#EXTINF:-1, Alfa & Omega | Wlog.Ro
+https://aom-live02.maghost.ro/aomTV/streams/Dio0mrjVgThWkcZy628619722360.m3u8
+#EXTINF:-1, Antena 1 | Wlog.Ro
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1, Antena 3 Constanta | Wlog.Ro
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+#EXTINF:-1, Antena Int. | Wlog.Ro
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1, As Tv | Wlog.Ro
+https://s2.netstreaming.eu/astv.m3u8
+#EXTINF:-1, Asia Express | Wlog.Ro
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+#EXTINF:-1, Autentic Tv | Wlog.Ro
+http://188.211.27.160:4001
+#EXTINF:-1, Banat Tv | Wlog.Ro
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1, Bollywood Clasic | Wlog.Ro
+https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
+#EXTINF:-1, Bollywood Film | Wlog.Ro
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1, Cine Wow | Wlog.Ro
+https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+#EXTINF:-1, Columna Tv | Wlog.Ro
+http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
+#EXTINF:-1, Comedy Play | Wlog.Ro
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1, Credo Tv | Wlog.Ro
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1, Digi 24 | Wlog.Ro
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1, Digi 24 | Wlog.Ro
+https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+#EXTINF:-1, Europa Nova | Wlog.Ro
+https://stream.nstiri.com/hls/stream.m3u8
+#EXTINF:-1, FightBox | Wlog.Ro
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1, FilmBox+ Festival | Wlog.Ro
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1, Happy Channel | Wlog.Ro
+https://live4dai.antenaplay.ro/live2_sdi13/live2_sdi13_600k.m3u8
+#EXTINF:-1, Hunedoara 1 | Wlog.Ro
+https://s2.netstreaming.eu/hd1.m3u8
+#EXTINF:-1, Impact Tv 2 | Wlog.Ro
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1, Info HD | Wlog.Ro
+https://s2.netstreaming.eu/InfoHd.m3u8
+#EXTINF:-1, Insula Iubirii | Wlog.Ro
+https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
+#EXTINF:-1, Intermedia Tv | Wlog.Ro
+https://live.intermediatv.ro/ram/playlist.m3u8
+#EXTINF:-1, Kanal D | Wlog.Ro
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1, Kanal D2 | Wlog.Ro
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1, Kapital Tv | Wlog.Ro
+http://mediafilmcenter.go.ro:50935/ktv/myStream/playlist.m3u8
+#EXTINF:-1, M9 Tv | Wlog.Ro
+https://s2.netstreaming.eu/m9tv.m3u8
+#EXTINF:-1, Mdi Tv | Wlog.Ro
+http://188.173.32.4:2222
+#EXTINF:-1, Misa Tv | Wlog.Ro
+https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
+#EXTINF:-1, Moinesti Tv | Wlog.Ro
+https://de.moinestifm.ro/hls/moinesti_tv/index.m3u8
+#EXTINF:-1, Moldova Tv | Wlog.Ro
+http://89.38.8.130:39435
+#EXTINF:-1, Mooz Dance | Wlog.Ro
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1, Mooz Hits | Wlog.Ro
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1, Mooz Love | Wlog.Ro
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+#EXTINF:-1, Mooz Retro | Wlog.Ro
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+#EXTINF:-1, Mooz Ro | Wlog.Ro
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
+https://vdo.ssl-stream.com:3885/stream/play.m3u8
+#EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
+https://vdo.ssl-stream.com:3369/stream/play.m3u8
+#EXTINF:-1, Ploiesti Tv | Wlog.Ro
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1, Rapsodia Tv | Wlog.Ro
+http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1, Ro 24 | Wlog.Ro
+https://live.ro24tv.ro/hls/0/stream.m3u8?cachebust=
+#EXTINF:-1, Rtn Chicago | Wlog.Ro
+https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1, Sens Tv | Wlog.Ro
+https://live.senstv.ro/live/senstv_360p/playlist.m3u8
+#EXTINF:-1, Stirile Pro Tv | Wlog.Ro
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1, Super Tv | Wlog.Ro
+https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1, Tequila Music Tv | Wlog.Ro
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+#EXTINF:-1, Tv 1 | Wlog.Ro
+https://s2.netstreaming.eu/tv1.m3u8
+#EXTINF:-1, Drochia Tv (MD) | Wlog.Ro
+http://89.41.66.141:8000/tvdrochia
+#EXTINF:-1, Moldova 1 (MD) | Wlog.Ro
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
+#EXTINF:-1, NTS (MD) | Wlog.Ro
+http://5.56.77.9:50000
+#EXTINF:-1, Sor Tv (MD) | Wlog.Ro
+https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
+#EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1, Tvr Moldova (MD) | Wlog.Ro
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
