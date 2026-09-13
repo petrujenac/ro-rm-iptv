@@ -111,8 +111,6 @@ https://live.ro24tv.ro/hls/stream.m3u8
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Undefined",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -195,6 +193,8 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="News",Rlive TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="General",Sor TV (720p)
+http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="Documentary;News",TV8 [Not 24/7]
@@ -269,8 +269,6 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1, Kapital Tv | Wlog.Ro
 http://mediafilmcenter.go.ro:50935/ktv/myStream/playlist.m3u8
-#EXTINF:-1, M9 Tv | Wlog.Ro
-https://s2.netstreaming.eu/m9tv.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
 #EXTINF:-1, Misa Tv | Wlog.Ro
@@ -317,6 +315,8 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 http://89.41.66.141:8000/tvdrochia
 #EXTINF:-1, Moldova 1 (MD) | Wlog.Ro
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
+#EXTINF:-1, NTS (MD) | Wlog.Ro
+http://5.56.77.9:50000
 #EXTINF:-1, Sor Tv (MD) | Wlog.Ro
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
