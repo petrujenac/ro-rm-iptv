@@ -105,8 +105,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Series",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Religious",MISA TV
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="General",Moldova TV (1080p)
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Music",Mooz Dance
@@ -145,8 +143,6 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Undefined",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
@@ -311,8 +307,6 @@ http://mediafilmcenter.go.ro:50935/ktv/myStream/playlist.m3u8
 https://s2.netstreaming.eu/m9tv.m3u8
 #EXTINF:-1, Mdi Tv | Wlog.Ro
 http://188.173.32.4:2222
-#EXTINF:-1, Misa Tv | Wlog.Ro
-https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
 #EXTINF:-1, Mooz Love | Wlog.Ro
@@ -331,6 +325,8 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 https://live.ro24tv.ro/hls/0/stream.m3u8?cachebust=
 #EXTINF:-1, Rtn Chicago | Wlog.Ro
 https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1, Sangeorz Tv | Wlog.Ro
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 #EXTINF:-1, Sens Tv | Wlog.Ro
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1, Stirile Pro Tv | Wlog.Ro
@@ -341,8 +337,8 @@ https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1, Tv Arad | Wlog.Ro
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
-#EXTINF:-1, Drochia Tv (MD) | Wlog.Ro
-http://89.41.66.141:8000/tvdrochia
+#EXTINF:-1, Busuioc Tv (MD) | Wlog.Ro
+https://live.busuioctv.md/hls/busuioctv/index.m3u8
 #EXTINF:-1, Moldova 1 (MD) | Wlog.Ro
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
 #EXTINF:-1, NTS (MD) | Wlog.Ro
@@ -351,6 +347,8 @@ http://5.56.77.9:50000
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1, Tv Drochia (MD) | Wlog.Ro
+http://89.41.66.141:8000/tvdrochia
 #EXTINF:-1, Tv Nord (MD) | Wlog.Ro
 https://stream.bliss.md/hls/t.m3u8
 #EXTINF:-1, Tvr Moldova (MD) | Wlog.Ro
