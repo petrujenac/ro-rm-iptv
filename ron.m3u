@@ -165,8 +165,6 @@ https://live.ro24tv.ro/hls/stream.m3u8
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="General;Music",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="General;Music",Radio Romania Targu Mures (576p)
@@ -223,8 +221,6 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="General",TVR Iasi
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
-https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="General",TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="General;Sports",TVR Sport
@@ -265,6 +261,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="Documentary;News",TV8 (Moldova) [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="News",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="General",TVR Moldova HD (1440p)
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Undefined",Vocea Basarabiei TV
@@ -361,6 +359,8 @@ https://s2.netstreaming.eu/tv1.m3u8
 https://live.busuioctv.md/hls/busuioctv/index.m3u8
 #EXTINF:-1, Moldova 1 (MD) | Wlog.Ro
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
+#EXTINF:-1, Sor Tv (MD) | Wlog.Ro
+https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1, Tezaur Tv (MD) | Wlog.Ro
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1, Tv Drochia (MD) | Wlog.Ro
