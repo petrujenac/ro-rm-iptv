@@ -333,6 +333,8 @@ https://live.tvimpact.ro:8088/live/impact.m3u8
 https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1, Insula Iubirii | Wlog.Ro
 https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
+#EXTINF:-1, Intermedia Tv | Wlog.Ro
+https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1, Kanal D | Wlog.Ro
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1, Kanal D2 | Wlog.Ro
