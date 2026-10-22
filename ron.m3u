@@ -329,10 +329,6 @@ http://188.173.32.4:2222
 https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 #EXTINF:-1, Moldova Tv | Wlog.Ro
 http://89.38.8.130:39435
-#EXTINF:-1, M Plus Tv Iasi | Wlog.Ro
-https://vdo.ssl-stream.com:3885/stream/play.m3u8
-#EXTINF:-1, M Plus Tv Neamt | Wlog.Ro
-https://vdo.ssl-stream.com:3369/stream/play.m3u8
 #EXTINF:-1, Ploiesti Tv | Wlog.Ro
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 #EXTINF:-1, Rapsodia Tv | Wlog.Ro
