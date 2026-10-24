@@ -103,6 +103,8 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Undefined",Kanal D2 (1080i)
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="General",Kanal D (Romania) (480p)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Undefined",Light Channel (Romania) (480p) [Not 24/7]
@@ -299,6 +301,8 @@ https://live.tvimpact.ro:8088/live/impact.m3u8
 https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1, Insula Iubirii | Wlog.Ro
 https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
+#EXTINF:-1, Kanal D | Wlog.Ro
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1, Kanal D2 | Wlog.Ro
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1, M 9 Tv | Wlog.Ro
